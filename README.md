@@ -8,7 +8,6 @@ Dive into state management in Flutter, explore different architectural options a
 
 # Visual Demo:
 
-![todoey_app](todoey_screenshot.png)
 <img src="todoey_screenshot.png" alt="todoey_app" width="200" lenght= "400" />
 
 # What I learned
