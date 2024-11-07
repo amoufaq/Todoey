@@ -8,7 +8,7 @@ Dive into state management in Flutter, explore different architectural options a
 
 # Visual Demo:
 
-A visual demonstration of my project (please wait for the GIF to load).
+![todoey_app](todoey_screenshot .png)
 
 # What I learned
 - Understand what state is and why managing it is essential.
