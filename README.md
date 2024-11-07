@@ -8,7 +8,7 @@ Dive into state management in Flutter, explore different architectural options a
 
 # Visual Demo:
 
-<img src="todoey_screenshot.png" alt="todoey_app" width="200" lenght= "400" />
+<img src="todoey_screenshot.png" alt="todoey_app" width="300" lenght= "600" />
 
 # What I learned
 - Understand what state is and why managing it is essential.
