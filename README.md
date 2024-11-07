@@ -8,7 +8,7 @@ Dive into state management in Flutter, explore different architectural options a
 
 # Visual Demo:
 
-![todoey_app](todoey_screenshot .png)
+![todoey_app](todoey_screenshot.png)
 
 # What I learned
 - Understand what state is and why managing it is essential.
